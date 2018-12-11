@@ -1,0 +1,125 @@
+/* MAPINFO supplement for ZDoom
+ * (Will be ignored in PRBoom)
+ *
+ * No "suck time." Par times are erased.
+ * Custom story text and map names are in the DeHackEd patch.
+ */
+
+clearepisodes
+
+episode map01
+{
+	name = "Root of the Problem"
+	key = "r"
+}
+
+episode map08
+{
+	name = "Guns and Glory"
+	key = "g"
+}
+
+defaultmap
+{
+	sucktime = 0
+}
+
+map MAP01 lookup "HUSTR_1"
+{
+	next = "MAP02"
+	secretnext = "MAP02"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_RUNNIN"
+}
+
+map MAP02 lookup "HUSTR_2"
+{
+	next = "MAP03"
+	secretnext = "MAP03"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_STALKS"
+}
+
+map MAP03 lookup "HUSTR_3"
+{
+	next = "MAP04"
+	secretnext = "MAP04"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_COUNTD"
+}
+
+map MAP04 lookup "HUSTR_4"
+{
+	next = "MAP05"
+	secretnext = "MAP05"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_BETWEE"
+}
+
+map MAP05 lookup "HUSTR_5"
+{
+	next = "MAP06"
+	secretnext = "MAP06"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_DOOM"
+}
+
+map MAP06 lookup "HUSTR_6"
+{
+	next = "MAP07"
+	secretnext = "MAP07"
+	sky1 = "SKY1"
+	cluster = 5
+	music = "$MUSIC_THE_DA"
+}
+
+map MAP07 lookup "HUSTR_7"
+{
+	next = "MAP08"
+	secretnext = "MAP08"
+	sky1 = "SKY1"
+	cluster = 6
+	map07special
+	music = "$MUSIC_SHAWN"
+}
+
+map MAP08 lookup "HUSTR_8"
+{
+	next = "MAP09"
+	secretnext = "MAP09"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "$MUSIC_DDTBLU"
+}
+
+map MAP09 lookup "HUSTR_9"
+{
+	next = "MAP10"
+	secretnext = "MAP10"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "$MUSIC_IN_CIT"
+}
+
+map MAP10 lookup "HUSTR_10"
+{
+	next = "MAP11"
+	secretnext = "MAP11"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "$MUSIC_DEAD"
+}
+
+map MAP11 lookup "HUSTR_11"
+{
+	next = "MAP12"
+	secretnext = "MAP12"
+	sky1 = "SKY1"
+	cluster = 6
+	music = "$MUSIC_STLKS2"
+}

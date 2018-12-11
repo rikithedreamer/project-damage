@@ -1,0 +1,96 @@
+# DeuTex 5.1.2
+# PWAD creation directives
+
+# List of levels
+[levels]
+MAP01
+MAP02
+MAP03
+MAP04
+MAP05
+MAP06
+MAP07
+MAP08
+MAP09
+MAP10
+MAP11
+
+# List of data Lumps
+[lumps]
+COPYING
+DEHACKED
+MAPINFO
+DEMO1
+DEMO2
+DEMO3
+DEMO4
+FDCREDIT
+
+# List of definitions for TEXTURE1
+[texture1]
+TEXTURE1
+
+# List of Musics
+[musics]
+D_RUNNIN
+D_STALKS
+D_COUNTD
+D_BETWEE
+D_DOOM
+D_THE_DA
+D_SHAWN
+D_DDTBLU
+D_IN_CIT
+D_DEAD
+D_STLKS2
+D_DM2TTL
+D_READ_M
+D_DM2INT
+D_EVIL
+
+# List of Pictures (with insertion point)
+[graphics]
+CWILV00	0	0
+CWILV01	0	0
+CWILV02	0	0
+CWILV03	0	0
+CWILV04	0	0
+CWILV05	0	0
+CWILV06	0	0
+CWILV07	0	0
+CWILV08	0	0
+CWILV09	0	0
+CWILV10	0	0
+WIENTER	0	0
+TITLEPIC	0	0
+M_DOOM	0	0
+INTERPIC	0	0
+
+# List of patches
+[patches]
+RSKY1
+APDOOR
+AP16
+AP128
+AP64
+AP32
+AP8
+APLIFT
+APYEL
+APRED
+APBLU
+APM128
+APM112
+APM64
+
+# List of Floors and Ceilings
+[flats]
+ADEVF08
+ADEVF16
+ADEVF32
+ADEVF64
+ADEVFDR
+ADEVFLT
+ADEVFLV
+
+# End of extraction

@@ -1,0 +1,50 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+[STRINGS]
+# Level names
+HUSTR_1 = LEVEL 1: LANDING
+HUSTR_2 = LEVEL 2: DAILY GRIND
+HUSTR_3 = LEVEL 3: NO HIDING
+HUSTR_4 = LEVEL 4: THREE-KEY RETURN
+HUSTR_5 = LEVEL 5: CORRIDOR INVASION
+HUSTR_6 = LEVEL 6: DOUBTS EVEN HERE
+HUSTR_7 = LEVEL 7: WICKED GARDEN
+HUSTR_8 = LEVEL 8: CULT CELL
+HUSTR_9 = LEVEL 9: BODY COUNT
+HUSTR_10 = LEVEL 10: HALLS OF STONE
+HUSTR_11 = LEVEL 11: LINK
+# Ending text after MAP06
+#------- 1234567890123456789012345678901234567890
+C1TEXT = Is that all? It seems like the smell of\n\
+         victory is closer than you thought.\n\
+		 \n\
+		 Intelligence notifies you that yet\n\
+		 another monster spewer lies just ahead\n\
+		 of you.\n\
+		 \n\
+		 Once again, it's time to give 'em\n\
+		 everything you got.
+# Ending text after MAP11
+#------- 1234567890123456789012345678901234567890
+C2TEXT = Blasting through hordes of Nazi zombies\n\
+         was pretty fun, wasn't it? You haven't\n\
+		 felt so energized in such a long time\n\
+		 with all your guns and glory.\n\
+		 \n\
+		 After establishing a communication link\n\
+		 with your comrades in arms, you hear\n\
+		 that this same dark force you're\n\
+		 fighting has unleashed an evil plan to\n\
+		 take over the world!\n\
+		 \n\
+		 Your mission now is to make your way\n\
+		 into the corrupted metropolis and end\n\
+		 this.\n\
+		 \n\
+		 Fight, marine! Fight for the people!\n\
+		 Make those Earth destroyers pay!!
