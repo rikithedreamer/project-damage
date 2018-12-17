@@ -9,7 +9,7 @@ Title                   : Project Damage v1.0
 Filename                : pdamage.wad
 Release date            : December 10, 2018
 Author                  : Anais Pomeroy (Naylan)
-Email Address           : riki9999@hotmail.com
+Email Address           : riki9999+AT+hotmail=DOT=com
 Misc. Author Info       : Currently working on the RPG Maker game "FOG"
 
 Description             : A single-player/coop map pack to celebrate 25
